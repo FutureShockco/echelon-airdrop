@@ -1,0 +1,17 @@
+{
+  "name": "echelon-airdrop",
+  "version": "1.0.0",
+  "description": "Airdrop for Echelon",
+  "main": "getProposalVoters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getProposalVoters.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dsteem": "^0.11.3",
+    "node-fetch": "^2.7.0"
+  }
+}
