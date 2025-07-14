@@ -1,57 +1,57 @@
 {
-  "snapshotTimestamp": "2025-07-14T15:57:22.708Z",
+  "snapshotTimestamp": "2025-07-14T16:03:02.539Z",
   "proposalId": 90,
   "totalVoters": 173,
   "totalProxiedAccounts": 1233,
   "totalAirdrop": 160000000,
   "airdropPerMonth": 20000000,
-  "proposaltotalSP": 56150575.29720007,
-  "airdropTotalTokenCount": 19999995,
+  "proposaltotalSP": 56150638.42598683,
+  "airdropTotalTokenCount": 19999992,
   "voters": [
     {
       "account": "rme",
-      "sp": "14584900",
-      "total_sp": "14584900",
+      "sp": "14584904",
+      "total_sp": "14584904",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "25.97",
-      "token_count": "5194925",
+      "token_count": "5194920",
       "is_eligible": true
     },
     {
       "account": "hungry-griffin",
-      "sp": "6378339",
-      "total_sp": "6378339",
+      "sp": "6378341",
+      "total_sp": "6378341",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "11.36",
-      "token_count": "2271870",
+      "token_count": "2271868",
       "is_eligible": true
     },
     {
       "account": "puss.coin",
-      "sp": "2927160",
-      "total_sp": "2927160",
+      "sp": "2927161",
+      "total_sp": "2927161",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "5.21",
-      "token_count": "1042611",
+      "token_count": "1042610",
       "is_eligible": true
     },
     {
       "account": "shy-fox",
-      "sp": "2761646",
-      "total_sp": "2761646",
+      "sp": "2761647",
+      "total_sp": "2761647",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "4.92",
-      "token_count": "983657",
+      "token_count": "983656",
       "is_eligible": true
     },
     {
       "account": "abb-curation",
-      "sp": "2051589",
-      "total_sp": "2051589",
+      "sp": "2051590",
+      "total_sp": "2051590",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "3.65",
@@ -60,8 +60,8 @@
     },
     {
       "account": "justyy",
-      "sp": "1259875",
-      "total_sp": "1259875",
+      "sp": "1259876",
+      "total_sp": "1259876",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "2.24",
@@ -75,7 +75,7 @@
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "1.62",
-      "token_count": "324871",
+      "token_count": "324870",
       "is_eligible": true
     },
     {
@@ -90,8 +90,8 @@
     },
     {
       "account": "oppps",
-      "sp": "885276",
-      "total_sp": "885276",
+      "sp": "885277",
+      "total_sp": "885277",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "1.58",
@@ -105,7 +105,7 @@
       "proxy_to": "steemchiller",
       "proxied_sp": "0",
       "sp_share_percent": "1.43",
-      "token_count": "286271",
+      "token_count": "286270",
       "is_eligible": true
     },
     {
@@ -115,13 +115,13 @@
       "proxy_to": "h4lab.witness",
       "proxied_sp": "791795",
       "sp_share_percent": "1.41",
-      "token_count": "282026",
+      "token_count": "282025",
       "is_eligible": true
     },
     {
       "account": "steem.history",
-      "sp": "771144",
-      "total_sp": "771144",
+      "sp": "771145",
+      "total_sp": "771145",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "1.37",
@@ -135,7 +135,7 @@
       "proxy_to": "h4lab.witness",
       "proxied_sp": "668578",
       "sp_share_percent": "1.19",
-      "token_count": "238138",
+      "token_count": "238137",
       "is_eligible": true
     },
     {
@@ -180,8 +180,8 @@
     },
     {
       "account": "steemchiller",
-      "sp": "566578",
-      "total_sp": "566578",
+      "sp": "566580",
+      "total_sp": "566580",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "1.01",
@@ -190,8 +190,8 @@
     },
     {
       "account": "steem-agora",
-      "sp": "557892",
-      "total_sp": "557892",
+      "sp": "557894",
+      "total_sp": "557894",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.99",
@@ -220,8 +220,8 @@
     },
     {
       "account": "symbionts",
-      "sp": "431026",
-      "total_sp": "431026",
+      "sp": "431027",
+      "total_sp": "431027",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.77",
@@ -250,8 +250,8 @@
     },
     {
       "account": "italygame",
-      "sp": "403739",
-      "total_sp": "403739",
+      "sp": "403740",
+      "total_sp": "403740",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.72",
@@ -260,12 +260,12 @@
     },
     {
       "account": "xpilar",
-      "sp": "363792",
-      "total_sp": "363792",
+      "sp": "363795",
+      "total_sp": "363795",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.65",
-      "token_count": "129577",
+      "token_count": "129578",
       "is_eligible": true
     },
     {
@@ -301,21 +301,21 @@
     {
       "account": "ctime",
       "sp": "0",
-      "total_sp": "296243",
+      "total_sp": "296246",
       "proxy_to": "symbionts",
-      "proxied_sp": "296243",
+      "proxied_sp": "296246",
       "sp_share_percent": "0.53",
-      "token_count": "105517",
+      "token_count": "105518",
       "is_eligible": true
     },
     {
       "account": "mmmmkkkk311",
       "sp": "0",
-      "total_sp": "290049",
+      "total_sp": "290052",
       "proxy_to": "symbionts",
-      "proxied_sp": "290049",
+      "proxied_sp": "290052",
       "sp_share_percent": "0.52",
-      "token_count": "103311",
+      "token_count": "103312",
       "is_eligible": true
     },
     {
@@ -350,12 +350,12 @@
     },
     {
       "account": "future.witness",
-      "sp": "267831",
-      "total_sp": "267831",
+      "sp": "267833",
+      "total_sp": "267833",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.48",
-      "token_count": "95397",
+      "token_count": "95398",
       "is_eligible": true
     },
     {
@@ -375,15 +375,15 @@
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.42",
-      "token_count": "84666",
+      "token_count": "84665",
       "is_eligible": true
     },
     {
       "account": "dorian-lee",
       "sp": "0",
-      "total_sp": "232787",
+      "total_sp": "232788",
       "proxy_to": "italygame",
-      "proxied_sp": "232787",
+      "proxied_sp": "232788",
       "sp_share_percent": "0.41",
       "token_count": "82915",
       "is_eligible": true
@@ -431,9 +431,9 @@
     {
       "account": "pennsif.witness",
       "sp": "0",
-      "total_sp": "191024",
+      "total_sp": "191025",
       "proxy_to": "pennsif",
-      "proxied_sp": "191024",
+      "proxied_sp": "191025",
       "sp_share_percent": "0.34",
       "token_count": "68040",
       "is_eligible": true
@@ -470,12 +470,12 @@
     },
     {
       "account": "hingsten",
-      "sp": "170929",
-      "total_sp": "170929",
+      "sp": "170931",
+      "total_sp": "170931",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.30",
-      "token_count": "60882",
+      "token_count": "60883",
       "is_eligible": true
     },
     {
@@ -500,12 +500,12 @@
     },
     {
       "account": "bippe",
-      "sp": "160871",
-      "total_sp": "160871",
+      "sp": "160873",
+      "total_sp": "160873",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.29",
-      "token_count": "57300",
+      "token_count": "57301",
       "is_eligible": true
     },
     {
@@ -515,7 +515,7 @@
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.28",
-      "token_count": "56511",
+      "token_count": "56510",
       "is_eligible": true
     },
     {
@@ -540,18 +540,18 @@
     },
     {
       "account": "moecki",
-      "sp": "154364",
-      "total_sp": "154364",
+      "sp": "154366",
+      "total_sp": "154366",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.27",
-      "token_count": "54982",
+      "token_count": "54983",
       "is_eligible": true
     },
     {
       "account": "dlike",
-      "sp": "152400",
-      "total_sp": "152400",
+      "sp": "152401",
+      "total_sp": "152401",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.27",
@@ -590,8 +590,8 @@
     },
     {
       "account": "faisalamin",
-      "sp": "140623",
-      "total_sp": "140623",
+      "sp": "140625",
+      "total_sp": "140625",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.25",
@@ -741,9 +741,9 @@
     {
       "account": "stmpak.wit",
       "sp": "0",
-      "total_sp": "83024",
+      "total_sp": "83026",
       "proxy_to": "steemchiller",
-      "proxied_sp": "83024",
+      "proxied_sp": "83026",
       "sp_share_percent": "0.15",
       "token_count": "29572",
       "is_eligible": true
@@ -780,8 +780,8 @@
     },
     {
       "account": "xpilar.witness",
-      "sp": "75693",
-      "total_sp": "75693",
+      "sp": "75694",
+      "total_sp": "75694",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.13",
@@ -790,12 +790,12 @@
     },
     {
       "account": "dhaka.witness",
-      "sp": "70489",
-      "total_sp": "70489",
+      "sp": "70491",
+      "total_sp": "70491",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.13",
-      "token_count": "25107",
+      "token_count": "25108",
       "is_eligible": true
     },
     {
@@ -840,12 +840,12 @@
     },
     {
       "account": "steemit-market",
-      "sp": "63375",
-      "total_sp": "63375",
+      "sp": "63377",
+      "total_sp": "63377",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.11",
-      "token_count": "22573",
+      "token_count": "22574",
       "is_eligible": true
     },
     {
@@ -911,9 +911,9 @@
     {
       "account": "tomoyan",
       "sp": "0",
-      "total_sp": "54923",
+      "total_sp": "54924",
       "proxy_to": "xpilar.witness",
-      "proxied_sp": "54923",
+      "proxied_sp": "54924",
       "sp_share_percent": "0.10",
       "token_count": "19563",
       "is_eligible": true
@@ -970,8 +970,8 @@
     },
     {
       "account": "starlord28",
-      "sp": "49976",
-      "total_sp": "49976",
+      "sp": "49978",
+      "total_sp": "49978",
       "proxy_to": "steemchiller",
       "proxied_sp": "0",
       "sp_share_percent": "0.09",
@@ -985,7 +985,7 @@
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.09",
-      "token_count": "17502",
+      "token_count": "17501",
       "is_eligible": true
     },
     {
@@ -1251,9 +1251,9 @@
     {
       "account": "germansailor",
       "sp": "0",
-      "total_sp": "31239",
+      "total_sp": "31240",
       "proxy_to": "steemchiller",
-      "proxied_sp": "31239",
+      "proxied_sp": "31240",
       "sp_share_percent": "0.06",
       "token_count": "11127",
       "is_eligible": true
@@ -1350,12 +1350,12 @@
     },
     {
       "account": "bigpower",
-      "sp": "27773",
-      "total_sp": "27773",
+      "sp": "27775",
+      "total_sp": "27775",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.05",
-      "token_count": "9892",
+      "token_count": "9893",
       "is_eligible": true
     },
     {
@@ -1830,8 +1830,8 @@
     },
     {
       "account": "heartwarming",
-      "sp": "15071",
-      "total_sp": "15071",
+      "sp": "15072",
+      "total_sp": "15072",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.03",
@@ -2021,9 +2021,9 @@
     {
       "account": "okere-blessing",
       "sp": "0",
-      "total_sp": "13431",
+      "total_sp": "13432",
       "proxy_to": "rme",
-      "proxied_sp": "13431",
+      "proxied_sp": "13432",
       "sp_share_percent": "0.02",
       "token_count": "4784",
       "is_eligible": true
@@ -2100,12 +2100,12 @@
     },
     {
       "account": "h4lab.witness",
-      "sp": "12799",
-      "total_sp": "12799",
+      "sp": "12801",
+      "total_sp": "12801",
       "proxy_to": null,
       "proxied_sp": "0",
       "sp_share_percent": "0.02",
-      "token_count": "4559",
+      "token_count": "4560",
       "is_eligible": true
     },
     {
@@ -2441,11 +2441,11 @@
     {
       "account": "isratmim",
       "sp": "0",
-      "total_sp": "9586",
+      "total_sp": "9590",
       "proxy_to": "rme",
-      "proxied_sp": "9586",
+      "proxied_sp": "9590",
       "sp_share_percent": "0.02",
-      "token_count": "3414",
+      "token_count": "3416",
       "is_eligible": true
     },
     {
@@ -2651,9 +2651,9 @@
     {
       "account": "myyolo",
       "sp": "0",
-      "total_sp": "7542",
+      "total_sp": "7543",
       "proxy_to": "justyy",
-      "proxied_sp": "7542",
+      "proxied_sp": "7543",
       "sp_share_percent": "0.01",
       "token_count": "2687",
       "is_eligible": true
@@ -3241,11 +3241,11 @@
     {
       "account": "global-steem",
       "sp": "0",
-      "total_sp": "3333",
+      "total_sp": "3335",
       "proxy_to": "steemchiller",
-      "proxied_sp": "3333",
+      "proxied_sp": "3335",
       "sp_share_percent": "0.01",
-      "token_count": "1187",
+      "token_count": "1188",
       "is_eligible": true
     },
     {
@@ -3285,7 +3285,7 @@
       "proxy_to": "cotina",
       "proxied_sp": "3140",
       "sp_share_percent": "0.01",
-      "token_count": "1119",
+      "token_count": "1118",
       "is_eligible": true
     },
     {
