@@ -52,7 +52,6 @@ async function getProxiedAccounts(voters) {
             try {
                 const response = await fetch(`https://sds.steemworld.org/witnesses_api/getWitnessProxyChainBackwards/${voter}`);
                 const data = await response.json();
-
                 if (data.code === 0 && data.result && data.result.proxied_by) {
                     // Only process direct proxies to voters
                     data.result.proxied_by.forEach(item => {
@@ -63,6 +62,7 @@ async function getProxiedAccounts(voters) {
                             proxyVoterMap.set(item.account, voter);
                         }
                     });
+                    await new Promise(resolve => setTimeout(resolve, 500));
                     console.log(`Found ${data.result.proxied_by.length} direct proxies to ${voter}`);
                 }
             } catch (error) {
